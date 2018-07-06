@@ -4,15 +4,15 @@
 
 ------
 
-###1.安装
+### 1.安装
 
 > * npm install
-> * npm run server (调试)／npm run build (打包)
+> * npm run server
 
 
 
 
-###2.内容
+### 2.内容
 
 > * 处于component／barrage
 
